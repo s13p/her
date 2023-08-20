@@ -135,7 +135,7 @@ body:not(.has-sidebar-right) .site-grid .container-component {
 
 body {
     position: relative;
-    background-image: url('./../../../ww.webp');
+    background-image: url('./../../../ww.gif');
     min-height: 100vh !important;
     background-repeat: repeat;
     background-attachment: fixed;
